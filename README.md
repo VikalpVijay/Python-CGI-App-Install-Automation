@@ -11,7 +11,7 @@
 5. Warning: Not recommended step, goto file path ```/etc/sudoers``` and give ```www-data``` permission to get sudo priviledges with no-password
 6. Restart the apache2 server and use the address ```http://localhost/cgi-bin/test.py``` in web-browser
 
-##Screenshots:
+## Screenshots:
 
 
 ![](img1.PNG)
