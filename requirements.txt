@@ -1,0 +1,4 @@
+python3
+cgi enabled 
+apache2 webserver
+web browser
